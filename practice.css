@@ -1,0 +1,18 @@
+#overlay {
+  margin: 0 auto;
+  width: 70%;
+}
+
+.hamburger {
+  width: 100%;
+  padding: auto;
+  align-content: center;
+}
+
+.main-container {
+  border: solid 2px gray ;
+  width: 30%;
+  padding: 10px;
+  margin: 0 auto;
+
+}
